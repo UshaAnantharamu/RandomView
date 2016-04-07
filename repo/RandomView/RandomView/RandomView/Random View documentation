@@ -1,0 +1,20 @@
+RandomView is a Xamarin based application exhibiting MVVM/MVC pattern which runs on Android devices.
+Users should be able to spawn an indefinite number of new views (squares or circles) filled with random colours or pattern images.
+
+The project consists, Models which uses ViewProps which has all the properties of an View Object that appears random on the screen.
+
+Under Utils, The CheckConnection class is used to check the internet connection.If connection is available,RandomShapAndSizeGenerator  class
+fetches the Url from the Xml,downloads the image in BitMap using DownloadImage.cs, and randomly decides shape and size and sets the properties
+finally under the Control SetViewProperties class.
+
+This supports all types of devices and hence Screensize class handles the scenario.
+
+ShakeDetector class is used to define the Shake Gesture detector.
+
+Currently few images are pre loaded/downloaded,to avoid latency in hitting the url on request.In the next phase the images will be refreshed in 
+background using background thread.
+
+On double tap, the random view gets updated and is draggable too.
+
+
+
