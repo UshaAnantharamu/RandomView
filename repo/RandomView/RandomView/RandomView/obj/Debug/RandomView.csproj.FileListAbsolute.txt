@@ -1,0 +1,14 @@
+D:\Random\RandomView\RandomView\bin\Debug\RandomView.dll
+D:\Random\RandomView\RandomView\bin\Debug\RandomView.pdb
+D:\Random\RandomView\RandomView\bin\Debug\RandomView.RandomView.apk
+D:\Random\RandomView\RandomView\bin\Debug\RandomView.RandomView-Signed.apk
+D:\Random\RandomView\RandomView\obj\Debug\RandomView.dll
+D:\Random\RandomView\RandomView\obj\Debug\RandomView.pdb
+D:\Random\RandomView\RandomView\obj\Debug\android\bin\RandomView.RandomView.apk
+D:\Random\RandomView\RandomView\obj\Debug\res\layout\main.xml
+D:\Random\RandomView\RandomView\obj\Debug\res\values\strings.xml
+D:\Random\RandomView\RandomView\obj\Debug\res\drawable\icon.png
+D:\Random\RandomView\RandomView\obj\Debug\R.cs.flag
+D:\Random\RandomView\RandomView\obj\Debug\uploadflags.txt
+D:\Random\RandomView\RandomView\obj\Debug\RandomView.dll.mdb
+D:\Random\RandomView\RandomView\bin\Debug\RandomView.dll.mdb

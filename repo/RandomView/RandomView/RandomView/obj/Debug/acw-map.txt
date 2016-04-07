@@ -1,0 +1,8 @@
+RandomView.MainActivity, RandomView;md5252682855377058db92a8b9a3788928a.MainActivity
+RandomView.MainActivity, RandomView, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null;md5252682855377058db92a8b9a3788928a.MainActivity
+RandomView.MainActivity;md5252682855377058db92a8b9a3788928a.MainActivity
+randomview.MainActivity;md5252682855377058db92a8b9a3788928a.MainActivity
+RandomView.Utils.ShakeDetector, RandomView;md50964211dfa2e8168d141be8b798f7feb.ShakeDetector
+RandomView.Utils.ShakeDetector, RandomView, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null;md50964211dfa2e8168d141be8b798f7feb.ShakeDetector
+RandomView.Utils.ShakeDetector;md50964211dfa2e8168d141be8b798f7feb.ShakeDetector
+randomview.utils.ShakeDetector;md50964211dfa2e8168d141be8b798f7feb.ShakeDetector
